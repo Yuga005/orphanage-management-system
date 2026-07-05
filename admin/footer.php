@@ -44,4 +44,3 @@
 <!-- <script src="dist/js/validations.js"></script> -->
 </body>
 </html>
-
