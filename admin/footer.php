@@ -1,6 +1,4 @@
 <footer class="main-footer no-print">
-    <strong>Copyright &copy; 2023 <a href="https://www.invictuswebsolutions.com/" target="_blank">Invictus Web Solutions</a>.</strong> All rights reserved.
-
 </footer>
 <!-- Control Sidebar -->
 <aside class="control-sidebar control-sidebar-dark">
